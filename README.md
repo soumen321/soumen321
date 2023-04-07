@@ -1,4 +1,10 @@
-### Hi there 👋
+- 👋 Hi, I’m Soumen
+- 👀 Passionate Android Developer with 15 years of experience in making quality Android applications, from business
+requirements gathering, planning, grooming, architecting and designing, developing, demo, and retro. Team player who
+is detail-oriented and works well in a fast-paced environment. Ability to create architecture for entire project from scratch.
+
+- 🌱 Android Developer
+- 📫 bhattacharjee.soumen@gmail.com
 
 <!--
 **soumen321/soumen321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
