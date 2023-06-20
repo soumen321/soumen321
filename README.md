@@ -5,7 +5,7 @@ is detail-oriented and works well in a fast-paced environment. Ability to create
 
 - 🔭 Involved - B2C and B2B Product (Healthcare / Pathology)
 
-- 🌱 Android - React Developer
+- 🌱 Android Java | Kotlin - React Native Developer
 - 📫 bhattacharjee.soumen@gmail.com
 
 <!--
