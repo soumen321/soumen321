@@ -6,9 +6,10 @@ is detail-oriented and works well in a fast-paced environment. Ability to create
 - 🔭 Involved - B2C and B2B Product (Healthcare / Pathology)
 
 - 🌱 Android Java | Kotlin - React Native Developer
-- 📫 bhattacharjee.soumen@gmail.com
 
-⚡ Skills
+
+
+ ## :zap: Skills
 
   <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  height="90" />
@@ -25,8 +26,23 @@ is detail-oriented and works well in a fast-paced environment. Ability to create
   <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
+
+   </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
+
+
+
+ <br><br><br>
  
-  
+ ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumen-bhattacharjee-777931a/)) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:bhattacharjee.soumen@gmail.com) 💌 <br>
 
 <!--
 **soumen321/soumen321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
