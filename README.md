@@ -11,10 +11,22 @@ is detail-oriented and works well in a fast-paced environment. Ability to create
 ⚡ Skills
 
   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  height="90" />
+  </a> 
+
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  height="90" />
+  </a> 
+
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  height="90" />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
  
- 
+  
 
 <!--
 **soumen321/soumen321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
