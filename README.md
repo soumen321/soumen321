@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Soumen
-- 👀 Passionate Android Developer with 16 years of experience in making quality Android applications, from business
-requirements gathering, planning, grooming, architecting and designing, developing, demo, and retro. Team player who
-is detail-oriented and works well in a fast-paced environment. Ability to create architecture for entire project from scratch.
+- 👀 Experienced Android Developer and DevOps Specialist with over 𝟏𝟔 𝐲𝐞𝐚𝐫𝐬 of technical design and development expertise. Proficient in team management, complex project execution, and solution implementation.Team player who
+is detail-oriented and works well in a fast-paced environment.
 
 - 🔭 Involved - B2C and B2B Product (Healthcare / Pathology)
 
