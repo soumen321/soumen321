@@ -11,6 +11,22 @@ is detail-oriented and works well in a fast-paced environment.
  ## :zap: Skills
 
   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  height="90" />
+  </a> 
+  <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  height="90" />
+  </a> 
+  <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+  </a> 
+  <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  height="90" />
+  </a> 
+  <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
+  </a> 
+
+  <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"  height="90" />
   </a> 
 
