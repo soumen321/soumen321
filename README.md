@@ -8,7 +8,7 @@ is detail-oriented and works well in a fast-paced environment.
 
 
 
- ## :zap: Skills
+ ## :zap: Master of Modern AI Stack
 
   <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  height="90" />
