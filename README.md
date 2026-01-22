@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumen
-- 👀 Experienced Android Developer and DevOps Specialist with over 𝟏𝟔 𝐲𝐞𝐚𝐫𝐬 of technical design and development expertise. Proficient in team management, complex project execution, and solution implementation.Team player who
+- 👀 SENIOR CLOUD PLATFORM & DEVOPS ENGINEER with over 𝟏7 𝐲𝐞𝐚𝐫𝐬 of technical design and development expertise. Proficient in team management, complex project execution, and solution implementation.Team player who
 is detail-oriented and works well in a fast-paced environment.
 
 - 🔭 Involved - B2C and B2B Product (Healthcare / Pathology)
