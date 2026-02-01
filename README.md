@@ -2,7 +2,7 @@
 - 👀 SENIOR CLOUD PLATFORM & DEVOPS ENGINEER with over 𝟏7 𝐲𝐞𝐚𝐫𝐬 of technical design and development expertise. Proficient in team management, complex project execution, and solution implementation.Team player who
 is detail-oriented and works well in a fast-paced environment.
 
-- 🔭 Involved - B2C and B2B Product (Healthcare / Pathology)
+- 🔭 Involved - Service Industry(Software) , B2C and B2B Product (Healthcare / Pathology)
 
 - 🌱 DevOps | Android Developer | Kotlin | Docker | Kubernetes | Java | Jenkins | GIT | Agile | React Native | Terraform | Linux | AWS | CI/CD | Github Action
 
