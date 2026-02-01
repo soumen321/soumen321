@@ -4,7 +4,7 @@ is detail-oriented and works well in a fast-paced environment.
 
 - 🔭 Involved - Service Industry(Software) , B2C and B2B Product (Healthcare / Pathology)
 
-- 🌱 DevOps | Android Developer | Kotlin | Docker | Kubernetes | Java | Jenkins | GIT | Agile | React Native | Terraform | Linux | AWS | CI/CD | Github Action
+- 🌱 DevOps | AIOPS | MLOPS | Agentic AI | RAG | Kubernetes | Docker | AWS | CI/CD | Github Action  | Terraform | Linux | Python | Kotlin  | Java | Jenkins | GIT | Agile | React Native 
 
 
 
