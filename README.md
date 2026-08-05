@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumen
-- 👀 SENIOR AI,CLOUD PLATFORM & DEVOPS ENGINEER with over 𝟏8 𝐲𝐞𝐚𝐫𝐬 of technical design and development expertise. Proficient in team management, complex project execution, and solution implementation.Team player who
+- 👀 SENIOR AI, CLOUD PLATFORM & DEVOPS ENGINEER with over 𝟏8 𝐲𝐞𝐚𝐫𝐬 of technical design and development expertise. Proficient in team management, complex project execution, and solution implementation.Team player who
 is detail-oriented and works well in a fast-paced environment.
 
 - 🔭 Involved - Service Industry(Software) , B2C and B2B Product (Healthcare / Pathology)
